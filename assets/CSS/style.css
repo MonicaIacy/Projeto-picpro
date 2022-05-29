@@ -321,35 +321,35 @@ body {
 }
 
 .secaoDetalhesConta_itemTransacao--qrCode figure {
-    background-image: url("/assets/img/qrcode.png");
+    background-image: url(../img/qrcode.png);
 }
 
 .secaoDetalhesConta_itemTransacao--pix figure {
-    background-image: url("/assets/img/pix.png");
+    background-image: url(../img/pix.png);
 }
 
 .secaoDetalhesConta_itemTransacao--boleto figure {
-    background-image: url("/assets/img/codigo.png");
+    background-image: url(../img/codigo.png);
 }
 
 .secaoDetalhesConta_itemTransacao--cobrar figure {
-    background-image: url("/assets/img/cobrar-icon.png");
+    background-image: url(../img/cobrar-icon.png);
 }
 
 .secaoDetalhesConta_itemTransacao--qrCode:hover figure {
-    background-image: url("/assets/img/qrcode-verde.png");
+    background-image: url(../img/qrcode-verde.png);
 }
 
 .secaoDetalhesConta_itemTransacao--pix:hover figure {
-    background-image: url("/assets/img/pix-verde.png");
+    background-image: url(../img/pix-verde.png);
 }
 
 .secaoDetalhesConta_itemTransacao--boleto:hover figure {
-    background-image: url("/assets/img/boleto-verde.png");
+    background-image: url(../img/boleto-verde.png);
 }
 
 .secaoDetalhesConta_itemTransacao--cobrar:hover figure {
-    background-image: url("/assets/img/cobrar-verde.png");
+    background-image: url(../img/cobrar-verde.png);
 }
 
 .secaoDetalhesConta_itemTransacao figure img {
